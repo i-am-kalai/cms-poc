@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "name": "start:dev",
+      "type": "node",
+      "request": "launch",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "develop"],
+      "console": "integratedTerminal"
+    }
+  ]
+}
